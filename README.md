@@ -29,3 +29,6 @@ The files in this repository are structured to handle different parts of the bas
 To run the automated validation checking tool and confirm that everything is functioning perfectly on the machine, navigate to the repo and run:
 ```bash
 ./scripts/validate.sh
+
+
+## 4. Vedio Link : https://www.loom.com/share/5d3de2ed204d4ff5ab7492491023aa5f
